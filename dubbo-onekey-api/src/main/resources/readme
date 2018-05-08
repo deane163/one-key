@@ -1,0 +1,4 @@
+模块说明：
+1、此模块是 ElasticSearch 查询的接口API。
+2、此模块定义了ElasticSearch 简单查询和复杂查询的操作接口。
+3、应用Dubbo的方式使用此模块，服务端和消费端都需要引入 dubbo-search-api 此jar包
